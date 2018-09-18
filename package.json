@@ -1,7 +1,7 @@
 {
     "name": "mongo-factory",
     "version": "1.0.0",
-    "main": "index.js",
+    "main": "factory.js",
     "license": "MIT",
     "scripts": {
         "test": "jest",
