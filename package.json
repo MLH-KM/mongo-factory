@@ -5,7 +5,8 @@
     "license": "MIT",
     "scripts": {
         "test": "jest",
-        "test:watch": "jest --watch"
+        "test:watch": "jest --watch",
+        "format": "prettier --write './**/*.+(js|md|json)'"
     },
     "devDependencies": {
         "jest": "^23.6.0",
