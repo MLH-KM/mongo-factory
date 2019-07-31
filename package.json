@@ -1,19 +1,19 @@
 {
-    "name": "mongo-factory",
-    "version": "1.0.0",
-    "main": "factory.js",
-    "license": "MIT",
-    "scripts": {
-        "test": "jest",
-        "test:watch": "jest --watch",
-        "format": "prettier --write './**/*.+(js|md|json)'"
-    },
-    "devDependencies": {
-        "jest": "^23.6.0",
-        "nanoid": "^2.0.3",
-        "prettier": "^1.18.2"
-    },
-    "dependencies": {
-        "lodash": "^4.17.11"
-    }
+  "name": "mongo-factory",
+  "version": "2.0.0",
+  "main": "factory.js",
+  "license": "MIT",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch",
+    "format": "prettier --write './**/*.+(js|md|json)'"
+  },
+  "devDependencies": {
+    "jest": "^23.6.0",
+    "nanoid": "^2.0.3",
+    "prettier": "^1.18.2"
+  },
+  "dependencies": {
+    "lodash": "^4.17.11"
+  }
 }
