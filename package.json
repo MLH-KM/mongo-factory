@@ -10,7 +10,7 @@
   },
   "devDependencies": {
     "jest": "^25.1.0",
-    "nanoid": "^2.1.10",
+    "nanoid": "^3.1.17",
     "prettier": "^1.19.1"
   },
   "dependencies": {
