@@ -9,7 +9,7 @@
     "format": "prettier --write './**/*.+(js|md|json)'"
   },
   "devDependencies": {
-    "jest": "^25.1.0",
+    "jest": "^27.0.3",
     "nanoid": "^2.1.10",
     "prettier": "^1.19.1"
   },
